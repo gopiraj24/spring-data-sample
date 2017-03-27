@@ -27,8 +27,8 @@ public class SpringDataSampleApplication {
 	@Bean
 	CommandLineRunner initData(BookRepository bookRepository){
 		return args -> {
-			bookRepository.save(new Book("Spring Microservices", "Learn how to efficiently build and implement microservices in Spring,\n" +
-					"and how to use Docker and Mesos to push the boundaries. Examine a number of real-world use cases and hands-on code examples.\n" +
+			bookRepository.save(new Book("Spring Microservices", "Learn how to efficiently build and implement microservices in Spring," +
+					"and how to use Docker and Mesos to push the boundaries. Examine a number of real-world use cases and hands-on code examples." +
 					"Distribute your microservices in a completely new way", LocalDate.of(2016, 06, 28), new Money(new BigDecimal(45.83))));
 			bookRepository.save(new Book("Pro Spring Boot", "A no-nonsense guide containing case studies and best practise for Spring Boot",
 					LocalDate.of(2016, 05, 21 ), new Money(new BigDecimal(42.74))));
