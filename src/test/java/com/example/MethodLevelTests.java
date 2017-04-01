@@ -28,8 +28,7 @@ import static org.junit.Assert.assertTrue;
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
-@WebAppConfiguration
-public class MethodLevelTest {
+public class MethodLevelTests {
 
     @Autowired
     BookRepository bookRepository;;

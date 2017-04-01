@@ -1,11 +1,11 @@
 ## Spring Data Sample
 
-This is a source code for a Spring Data Rest tutorial posted on http://vicina.kgbinternet.com/blog/view.htm?id=38
+This is a source code of [a Spring Data Rest tutorial](http://vicina.kgbinternet.com/blog/view.htm?id=38). It is the first installment of Spring Data sample series.
 
 Spring Data Sample series:
 
- * First installment: a single entity
- * [Second installment](https://github.com/vw98075/spring-data-sample2): related multiple entities
- * [Third installment](https://github.com/vw98075/spring-data-sample-security): secure API access with in-memory user setup
- * Fourth installment: secure API access with DB user setup
- * Fifth installment: secure API access with JWT, a sessionless approach
+ * [A single entity](https://github.com/vw98075/spring-data-sample)
+ * [Related multiple entities](https://github.com/vw98075/spring-data-sample2) 
+ * [Securing API access with an in-memory user setup](https://github.com/vw98075/spring-data-sample-security)
+ * [Securing API access with a database user setup](https://github.com/vw98075/spring-data-sample-security-db-user)
+ * [Securing API access with JWT, a sessionless approach](https://github.com/vw98075/spring-data-sample-security-jwt)
