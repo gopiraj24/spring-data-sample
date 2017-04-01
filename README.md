@@ -4,7 +4,7 @@ This is a source code of [a Spring Data Rest tutorial](http://vicina.kgbinternet
 
 Spring Data Sample series:
 
- * [A single entity](https://github.com/vw98075/spring-data-sample)
+ * A single entity
  * [Related multiple entities](https://github.com/vw98075/spring-data-sample2) 
  * [Securing API access with an in-memory user setup](https://github.com/vw98075/spring-data-sample-security)
  * [Securing API access with a database user setup](https://github.com/vw98075/spring-data-sample-security-db-user)
